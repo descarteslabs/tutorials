@@ -1,0 +1,2856 @@
+{
+    "north-america_united-states_iowa_central_dallas": {
+        "harvested": 133000.0,
+        "yld": 187.2,
+        "planted": 135500.0,
+        "gdd": [
+            1474183,
+            114013,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            222679
+        ],
+        "ndvi": [
+            303,
+            328,
+            6541,
+            69250,
+            146748,
+            75773,
+            85891,
+            152229,
+            108100,
+            8215
+        ],
+        "production": 24894000.0
+    },
+    "north-america_united-states_iowa_central_polk": {
+        "harvested": 78500.0,
+        "yld": 200.3,
+        "planted": 79000.0,
+        "gdd": [
+            1828197,
+            0,
+            0,
+            0,
+            24876,
+            53548,
+            0,
+            0,
+            0,
+            1541
+        ],
+        "ndvi": [
+            391,
+            383,
+            1195,
+            7739,
+            21854,
+            49572,
+            101118,
+            152607,
+            84338,
+            4837
+        ],
+        "production": 15720000.0
+    },
+    "north-america_united-states_iowa_northeast_dubuque": {
+        "harvested": 134100.0,
+        "yld": 215.1,
+        "planted": 151500.0,
+        "gdd": [
+            2092677,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            487038
+        ],
+        "ndvi": [
+            67,
+            80,
+            59516,
+            320813,
+            179702,
+            70250,
+            41920,
+            26506,
+            16663,
+            5439
+        ],
+        "production": 28847000.0
+    },
+    "north-america_united-states_iowa_north-central_wright": {
+        "harvested": 182400.0,
+        "yld": 206.9,
+        "planted": 183000.0,
+        "gdd": [
+            335604,
+            0,
+            0,
+            1085843,
+            0,
+            0,
+            191950,
+            0,
+            0,
+            62277
+        ],
+        "ndvi": [
+            48,
+            2361,
+            150759,
+            151581,
+            159065,
+            207054,
+            96076,
+            22866,
+            6479,
+            1325
+        ],
+        "production": 37742000.0
+    },
+    "north-america_united-states_iowa_east-central_iowa": {
+        "harvested": 123000.0,
+        "yld": 216.7,
+        "planted": 124000.0,
+        "gdd": [
+            1641603,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            73055
+        ],
+        "ndvi": [
+            17,
+            43,
+            3901,
+            36062,
+            74136,
+            136078,
+            176008,
+            76823,
+            18462,
+            3333
+        ],
+        "production": 26657000.0
+    },
+    "north-america_united-states_iowa_northeast_allamakee": {
+        "harvested": 76100.0,
+        "yld": 190.5,
+        "planted": 91500.0,
+        "gdd": [
+            1932550,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            389354
+        ],
+        "ndvi": [
+            8,
+            26,
+            29508,
+            155770,
+            67069,
+            34711,
+            17368,
+            10184,
+            7153,
+            3059
+        ],
+        "production": 14498000.0
+    },
+    "north-america_united-states_iowa_northeast_winneshiek": {
+        "harvested": 157400.0,
+        "yld": 199.7,
+        "planted": 171000.0,
+        "gdd": [
+            1978173,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            12888
+        ],
+        "ndvi": [
+            10,
+            45,
+            17843,
+            137660,
+            217373,
+            173434,
+            55603,
+            23173,
+            16918,
+            5108
+        ],
+        "production": 31427000.0
+    },
+    "north-america_united-states_iowa_south-central_madison": {
+        "harvested": 65500.0,
+        "yld": 173.1,
+        "planted": 67900.0,
+        "gdd": [
+            1423839,
+            82555,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            153706
+        ],
+        "ndvi": [
+            68,
+            144,
+            347,
+            9863,
+            24496,
+            43324,
+            109960,
+            116311,
+            54336,
+            5775
+        ],
+        "production": 11336000.0
+    },
+    "north-america_united-states_iowa_east-central_benton": {
+        "harvested": 190400.0,
+        "yld": 215.3,
+        "planted": 194000.0,
+        "gdd": [
+            70923,
+            0,
+            1784455,
+            0,
+            179560,
+            0,
+            0,
+            546,
+            0,
+            42052
+        ],
+        "ndvi": [
+            12,
+            72,
+            16161,
+            70199,
+            180303,
+            275805,
+            220951,
+            59409,
+            8747,
+            1528
+        ],
+        "production": 41002000.0
+    },
+    "north-america_united-states_iowa_northeast_clayton": {
+        "harvested": 142600.0,
+        "yld": 213.6,
+        "planted": 151000.0,
+        "gdd": [
+            2336108,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            824532
+        ],
+        "ndvi": [
+            96,
+            132,
+            57642,
+            302166,
+            184844,
+            114033,
+            45547,
+            27604,
+            20811,
+            6384
+        ],
+        "production": 30461000.0
+    },
+    "north-america_united-states_iowa_northwest_o-brien": {
+        "harvested": 164100.0,
+        "yld": 213.8,
+        "planted": 170000.0,
+        "gdd": [
+            1098894,
+            0,
+            0,
+            0,
+            4480,
+            488231,
+            0,
+            0,
+            0,
+            69873
+        ],
+        "ndvi": [
+            84,
+            105,
+            7217,
+            2379,
+            6467,
+            17745,
+            42726,
+            110924,
+            470737,
+            107197
+        ],
+        "production": 35088000.0
+    },
+    "north-america_united-states_iowa_northwest_clay": {
+        "harvested": 148400.0,
+        "yld": 197.3,
+        "planted": 151000.0,
+        "gdd": [
+            68196,
+            0,
+            0,
+            606889,
+            0,
+            0,
+            901165,
+            0,
+            0,
+            69790
+        ],
+        "ndvi": [
+            106,
+            133,
+            5217,
+            4264,
+            4524,
+            14181,
+            49427,
+            147270,
+            409199,
+            61860
+        ],
+        "production": 29272000.0
+    },
+    "north-america_united-states_iowa_south-central_appanoose": {
+        "harvested-silage": 840.0,
+        "harvested": 28000.0,
+        "yld": 170.0,
+        "planted": 29800.0,
+        "gdd": [
+            1507558,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            206
+        ],
+        "ndvi": [
+            29,
+            35,
+            319,
+            2460,
+            16672,
+            38307,
+            42080,
+            37254,
+            17322,
+            5044
+        ],
+        "production": 4760000.0
+    },
+    "north-america_united-states_iowa_central_tama": {
+        "harvested": 166000.0,
+        "yld": 220.6,
+        "planted": 168000.0,
+        "gdd": [
+            70912,
+            0,
+            0,
+            0,
+            1005722,
+            482613,
+            0,
+            0,
+            0,
+            526355
+        ],
+        "ndvi": [
+            80,
+            51,
+            3236,
+            53579,
+            110633,
+            202143,
+            244323,
+            104992,
+            17772,
+            2990
+        ],
+        "production": 36617000.0
+    },
+    "north-america_united-states_iowa_northeast_buchanan": {
+        "harvested": 182600.0,
+        "yld": 221.3,
+        "planted": 187000.0,
+        "gdd": [
+            166023,
+            0,
+            0,
+            0,
+            706973,
+            68298,
+            0,
+            0,
+            0,
+            769561
+        ],
+        "ndvi": [
+            23,
+            120,
+            7093,
+            199228,
+            280834,
+            242008,
+            104259,
+            31596,
+            11694,
+            2612
+        ],
+        "production": 40415000.0
+    },
+    "north-america_united-states_iowa_west-central_ida": {
+        "harvested": 120000.0,
+        "yld": 215.7,
+        "planted": 125000.0,
+        "gdd": [
+            79324,
+            0,
+            0,
+            0,
+            7694,
+            1179240,
+            0,
+            0,
+            0,
+            239092
+        ],
+        "ndvi": [
+            19,
+            9,
+            6537,
+            9222,
+            18562,
+            49020,
+            93304,
+            124658,
+            268151,
+            110848
+        ],
+        "production": 25889000.0
+    },
+    "north-america_united-states_iowa_northwest_sioux": {
+        "harvested": 209000.0,
+        "yld": 220.7,
+        "planted": 257000.0,
+        "gdd": [
+            1,
+            2096702,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            335211
+        ],
+        "ndvi": [
+            70,
+            93,
+            696,
+            1813,
+            10754,
+            37880,
+            111621,
+            274503,
+            615016,
+            146121
+        ],
+        "production": 46121000.0
+    },
+    "north-america_united-states_iowa_east-central_johnson": {
+        "harvested": 107400.0,
+        "yld": 213.1,
+        "planted": 109500.0,
+        "gdd": [
+            502692,
+            0,
+            0,
+            0,
+            355506,
+            1055527,
+            0,
+            0,
+            0,
+            180360
+        ],
+        "ndvi": [
+            213,
+            168,
+            77100,
+            155773,
+            167763,
+            82599,
+            38633,
+            22796,
+            11839,
+            1725
+        ],
+        "production": 22886000.0
+    },
+    "north-america_united-states_iowa_southwest_taylor": {
+        "harvested": 79100.0,
+        "yld": 175.0,
+        "planted": 80500.0,
+        "gdd": [
+            1523067,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            44773
+        ],
+        "ndvi": [
+            3,
+            37,
+            264,
+            20889,
+            65911,
+            83282,
+            92146,
+            101849,
+            83756,
+            13714
+        ],
+        "production": 13845000.0
+    },
+    "north-america_united-states_iowa_east-central_linn": {
+        "harvested": 150000.0,
+        "yld": 217.4,
+        "planted": 151000.0,
+        "gdd": [
+            37979,
+            0,
+            0,
+            546364,
+            0,
+            0,
+            892618,
+            69898,
+            0,
+            551791
+        ],
+        "ndvi": [
+            192,
+            250,
+            32402,
+            166953,
+            216105,
+            109742,
+            81490,
+            40881,
+            11859,
+            1331
+        ],
+        "production": 32610000.0
+    },
+    "north-america_united-states_iowa_southeast_des-moines": {
+        "harvested": 71000.0,
+        "yld": 200.1,
+        "planted": 71900.0,
+        "gdd": [
+            1584898,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            240811
+        ],
+        "ndvi": [
+            42,
+            90,
+            5663,
+            24404,
+            44941,
+            61433,
+            82092,
+            99147,
+            125022,
+            74066
+        ],
+        "production": 14209000.0
+    },
+    "north-america_united-states_iowa_northwest_osceola": {
+        "harvested": 123900.0,
+        "yld": 211.6,
+        "planted": 127000.0,
+        "gdd": [
+            552263,
+            0,
+            0,
+            0,
+            224946,
+            288193,
+            0,
+            0,
+            0,
+            69501
+        ],
+        "ndvi": [
+            125,
+            183,
+            7975,
+            2713,
+            6062,
+            16964,
+            34662,
+            103838,
+            299384,
+            56459
+        ],
+        "production": 26223000.0
+    },
+    "north-america_united-states_iowa_northwest_lyon": {
+        "harvested": 172200.0,
+        "yld": 218.9,
+        "planted": 181000.0,
+        "gdd": [
+            128,
+            1548763,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            127989
+        ],
+        "ndvi": [
+            31,
+            61,
+            4543,
+            6559,
+            14249,
+            35721,
+            67316,
+            155996,
+            411028,
+            76681
+        ],
+        "production": 37703000.0
+    },
+    "north-america_united-states_iowa_southeast_keokuk": {
+        "harvested": 114700.0,
+        "yld": 176.4,
+        "planted": 117500.0,
+        "gdd": [
+            319297,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            10616,
+            1352260
+        ],
+        "ndvi": [
+            30,
+            90,
+            7315,
+            11487,
+            24990,
+            76367,
+            152874,
+            151934,
+            64632,
+            12986
+        ],
+        "production": 20237000.0
+    },
+    "north-america_united-states_iowa_north-central_humboldt": {
+        "harvested": 132600.0,
+        "yld": 200.9,
+        "planted": 133500.0,
+        "gdd": [
+            21316,
+            0,
+            0,
+            474756,
+            0,
+            0,
+            672457,
+            0,
+            0,
+            76528
+        ],
+        "ndvi": [
+            80,
+            2499,
+            161869,
+            320732,
+            75563,
+            12382,
+            7614,
+            5059,
+            2701,
+            850
+        ],
+        "production": 26645000.0
+    },
+    "north-america_united-states_iowa_southeast_mahaska": {
+        "harvested": 131700.0,
+        "yld": 177.2,
+        "planted": 134000.0,
+        "gdd": [
+            725980,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            16824,
+            916091
+        ],
+        "ndvi": [
+            31,
+            97,
+            20095,
+            23902,
+            38847,
+            108374,
+            168587,
+            144762,
+            55200,
+            13176
+        ],
+        "production": 23335000.0
+    },
+    "north-america_united-states_iowa_west-central_audubon": {
+        "harvested": 105100.0,
+        "yld": 211.2,
+        "planted": 106000.0,
+        "gdd": [
+            573433,
+            0,
+            0,
+            0,
+            261364,
+            508355,
+            0,
+            0,
+            0,
+            116956
+        ],
+        "ndvi": [
+            60,
+            62,
+            12668,
+            169633,
+            96134,
+            54890,
+            66686,
+            77198,
+            104729,
+            60351
+        ],
+        "production": 22199000.0
+    },
+    "north-america_united-states_iowa_northeast_black-hawk": {
+        "harvested": 142200.0,
+        "yld": 209.2,
+        "planted": 143500.0,
+        "gdd": [
+            282437,
+            0,
+            0,
+            0,
+            238266,
+            937154,
+            0,
+            0,
+            0,
+            260380
+        ],
+        "ndvi": [
+            111,
+            221,
+            1670,
+            43486,
+            132553,
+            219372,
+            206039,
+            82682,
+            14442,
+            1947
+        ],
+        "production": 29744000.0
+    },
+    "north-america_united-states_iowa_north-central_mitchell": {
+        "harvested": 144900.0,
+        "yld": 213.4,
+        "planted": 150000.0,
+        "gdd": [
+            1354090,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            2270
+        ],
+        "ndvi": [
+            196,
+            1751,
+            12975,
+            47851,
+            253761,
+            253954,
+            42469,
+            9293,
+            5259,
+            1736
+        ],
+        "production": 30915000.0
+    },
+    "north-america_united-states_iowa_east-central_jones": {
+        "harvested": 149200.0,
+        "yld": 217.0,
+        "planted": 153000.0,
+        "gdd": [
+            17713,
+            0,
+            247158,
+            0,
+            264193,
+            842564,
+            0,
+            289506,
+            0,
+            8430
+        ],
+        "ndvi": [
+            92,
+            83,
+            71019,
+            269182,
+            221808,
+            54322,
+            21309,
+            12764,
+            5333,
+            559
+        ],
+        "production": 32370000.0
+    },
+    "north-america_united-states_iowa_west-central_shelby": {
+        "harvested": 170200.0,
+        "yld": 207.1,
+        "planted": 172000.0,
+        "gdd": [
+            56709,
+            0,
+            0,
+            1662845,
+            0,
+            0,
+            139711,
+            0,
+            0,
+            38325
+        ],
+        "ndvi": [
+            30,
+            41,
+            114,
+            1212,
+            11669,
+            46985,
+            108439,
+            138007,
+            281947,
+            267814
+        ],
+        "production": 35250000.0
+    },
+    "north-america_united-states_iowa_west-central_carroll": {
+        "harvested": 177100.0,
+        "yld": 211.3,
+        "planted": 182000.0,
+        "gdd": [
+            34289,
+            0,
+            0,
+            614297,
+            0,
+            0,
+            937330,
+            0,
+            0,
+            63424
+        ],
+        "ndvi": [
+            38,
+            232,
+            14796,
+            137021,
+            94548,
+            48564,
+            73769,
+            101204,
+            183301,
+            158268
+        ],
+        "production": 37418000.0
+    },
+    "north-america_united-states_iowa_north-central_butler": {
+        "harvested": 159200.0,
+        "yld": 211.4,
+        "planted": 162000.0,
+        "gdd": [
+            410872,
+            0,
+            0,
+            942723,
+            0,
+            0,
+            302183,
+            0,
+            0,
+            23757
+        ],
+        "ndvi": [
+            106,
+            113,
+            5254,
+            20782,
+            114200,
+            268227,
+            240792,
+            80741,
+            19127,
+            2170
+        ],
+        "production": 33650000.0
+    },
+    "north-america_united-states_iowa_west-central_harrison": {
+        "harvested": 173600.0,
+        "yld": 193.2,
+        "planted": 175000.0,
+        "gdd": [
+            2116801,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            214816
+        ],
+        "ndvi": [
+            130,
+            149,
+            5348,
+            15587,
+            33577,
+            76661,
+            115968,
+            173650,
+            302402,
+            210649
+        ],
+        "production": 33534000.0
+    },
+    "north-america_united-states_iowa_west-central_sac": {
+        "harvested": 159000.0,
+        "yld": 194.5,
+        "planted": 164500.0,
+        "gdd": [
+            79809,
+            0,
+            0,
+            926134,
+            0,
+            0,
+            846748,
+            0,
+            0,
+            35139
+        ],
+        "ndvi": [
+            186,
+            119,
+            2309,
+            10813,
+            12936,
+            45549,
+            104187,
+            182917,
+            324640,
+            174784
+        ],
+        "production": 30921000.0
+    },
+    "north-america_united-states_iowa_southwest_mills": {
+        "harvested": 91200.0,
+        "yld": 190.1,
+        "planted": 91500.0,
+        "gdd": [
+            1161980,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            141384
+        ],
+        "ndvi": [
+            115,
+            122,
+            418,
+            1404,
+            3132,
+            7281,
+            25153,
+            62115,
+            151267,
+            170463
+        ],
+        "production": 17336000.0
+    },
+    "north-america_united-states_iowa_southeast_davis": {
+        "harvested": 42700.0,
+        "yld": 107.3,
+        "planted": 49500.0,
+        "gdd": [
+            295574,
+            0,
+            0,
+            0,
+            269627,
+            848538,
+            0,
+            0,
+            0,
+            72341
+        ],
+        "ndvi": [
+            36,
+            57,
+            49,
+            903,
+            12326,
+            41236,
+            59784,
+            55794,
+            34107,
+            6128
+        ],
+        "production": 4582000.0
+    },
+    "north-america_united-states_iowa_northwest_emmet": {
+        "harvested": 118300.0,
+        "yld": 210.1,
+        "planted": 119500.0,
+        "gdd": [
+            1143150,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            270
+        ],
+        "ndvi": [
+            19,
+            45,
+            5396,
+            10648,
+            6546,
+            12621,
+            28395,
+            68218,
+            314979,
+            52192
+        ],
+        "production": 24858000.0
+    },
+    "north-america_united-states_iowa_south-central_monroe": {
+        "harvested-silage": 2080.0,
+        "harvested": 28400.0,
+        "yld": 169.9,
+        "planted": 30700.0,
+        "gdd": [
+            608856,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            646944
+        ],
+        "ndvi": [
+            39,
+            28,
+            2907,
+            8786,
+            19493,
+            38876,
+            38373,
+            27260,
+            13449,
+            5099
+        ],
+        "production": 4826000.0
+    },
+    "north-america_united-states_iowa_southwest_cass": {
+        "harvested": 126700.0,
+        "yld": 197.4,
+        "planted": 132000.0,
+        "gdd": [
+            535696,
+            0,
+            0,
+            0,
+            193651,
+            830736,
+            0,
+            0,
+            0,
+            71461
+        ],
+        "ndvi": [
+            9,
+            42,
+            9677,
+            175998,
+            163685,
+            57367,
+            34799,
+            34366,
+            48468,
+            105152
+        ],
+        "production": 25008000.0
+    },
+    "north-america_united-states_iowa_northeast_bremer": {
+        "harvested": 117000.0,
+        "yld": 212.7,
+        "planted": 120000.0,
+        "gdd": [
+            140168,
+            0,
+            0,
+            386308,
+            0,
+            0,
+            700169,
+            0,
+            0,
+            45099
+        ],
+        "ndvi": [
+            13,
+            62,
+            490,
+            15902,
+            72278,
+            209110,
+            168854,
+            53748,
+            14756,
+            3270
+        ],
+        "production": 24888000.0
+    },
+    "north-america_united-states_iowa_west-central_calhoun": {
+        "harvested": 172700.0,
+        "yld": 195.1,
+        "planted": 175000.0,
+        "gdd": [
+            926148,
+            0,
+            0,
+            0,
+            148419,
+            665783,
+            0,
+            0,
+            0,
+            95146
+        ],
+        "ndvi": [
+            126,
+            461,
+            144042,
+            284373,
+            71363,
+            33490,
+            47767,
+            112049,
+            182020,
+            16598
+        ],
+        "production": 33688000.0
+    },
+    "north-america_united-states_iowa_west-central_greene": {
+        "harvested": 167600.0,
+        "yld": 202.2,
+        "planted": 170500.0,
+        "gdd": [
+            859170,
+            0,
+            0,
+            0,
+            0,
+            755945,
+            0,
+            0,
+            0,
+            34405
+        ],
+        "ndvi": [
+            157,
+            361,
+            47809,
+            318191,
+            307006,
+            61852,
+            14948,
+            12056,
+            5956,
+            1610
+        ],
+        "production": 33888000.0
+    },
+    "north-america_united-states_iowa_north-central_kossuth": {
+        "harvested": 308000.0,
+        "yld": 205.6,
+        "planted": 311500.0,
+        "gdd": [
+            69897,
+            0,
+            561239,
+            0,
+            823423,
+            740891,
+            0,
+            623033,
+            0,
+            30767
+        ],
+        "ndvi": [
+            148,
+            4722,
+            432463,
+            616716,
+            91277,
+            38961,
+            43882,
+            54749,
+            128204,
+            4144
+        ],
+        "production": 63323000.0
+    },
+    "north-america_united-states_iowa_southeast_louisa": {
+        "harvested": 83700.0,
+        "yld": 216.6,
+        "planted": 84300.0,
+        "gdd": [
+            1587309,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            379761
+        ],
+        "ndvi": [
+            104,
+            115,
+            11084,
+            52016,
+            164303,
+            152825,
+            79463,
+            65264,
+            60020,
+            24116
+        ],
+        "production": 18129000.0
+    },
+    "north-america_united-states_iowa_central_jasper": {
+        "harvested": 170900.0,
+        "yld": 204.6,
+        "planted": 173000.0,
+        "gdd": [
+            527869,
+            0,
+            0,
+            0,
+            332524,
+            1107214,
+            0,
+            0,
+            0,
+            192609
+        ],
+        "ndvi": [
+            47,
+            93,
+            112903,
+            144728,
+            56895,
+            113378,
+            182792,
+            128838,
+            47464,
+            4047
+        ],
+        "production": 34965000.0
+    },
+    "north-america_united-states_iowa_southeast_jefferson": {
+        "harvested": 71400.0,
+        "yld": 165.5,
+        "planted": 74000.0,
+        "gdd": [
+            189725,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1090252
+        ],
+        "ndvi": [
+            22,
+            59,
+            845,
+            18873,
+            51313,
+            57796,
+            64016,
+            73772,
+            63070,
+            15595
+        ],
+        "production": 11817000.0
+    },
+    "north-america_united-states_iowa_northwest_buena-vista": {
+        "harvested": 163600.0,
+        "yld": 187.9,
+        "planted": 166500.0,
+        "gdd": [
+            231822,
+            0,
+            0,
+            0,
+            327011,
+            503703,
+            0,
+            0,
+            0,
+            610811
+        ],
+        "ndvi": [
+            243,
+            125,
+            9387,
+            12427,
+            9818,
+            25944,
+            42535,
+            85016,
+            305042,
+            243774
+        ],
+        "production": 30734000.0
+    },
+    "north-america_united-states_iowa_north-central_floyd": {
+        "harvested": 137400.0,
+        "yld": 203.4,
+        "planted": 140500.0,
+        "gdd": [
+            69899,
+            0,
+            0,
+            358596,
+            0,
+            0,
+            761868,
+            0,
+            0,
+            256762
+        ],
+        "ndvi": [
+            229,
+            1303,
+            33725,
+            64841,
+            222340,
+            220247,
+            36126,
+            11663,
+            7300,
+            1603
+        ],
+        "production": 27944000.0
+    },
+    "north-america_united-states_iowa_west-central_crawford": {
+        "harvested": 204000.0,
+        "yld": 221.9,
+        "planted": 205500.0,
+        "gdd": [
+            282106,
+            0,
+            0,
+            0,
+            1242995,
+            197118,
+            0,
+            0,
+            0,
+            320429
+        ],
+        "ndvi": [
+            10,
+            51,
+            647,
+            11392,
+            39131,
+            82225,
+            126050,
+            174569,
+            332330,
+            143726
+        ],
+        "production": 45273000.0
+    },
+    "north-america_united-states_iowa_east-central_jackson": {
+        "harvested": 113200.0,
+        "yld": 202.1,
+        "planted": 118500.0,
+        "gdd": [
+            2168115,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            549405
+        ],
+        "ndvi": [
+            14,
+            35,
+            54963,
+            242082,
+            146518,
+            91175,
+            57136,
+            33178,
+            16687,
+            4772
+        ],
+        "production": 22875000.0
+    },
+    "north-america_united-states_iowa_southeast_washington": {
+        "harvested": 119700.0,
+        "yld": 220.4,
+        "planted": 121500.0,
+        "gdd": [
+            658945,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1013735
+        ],
+        "ndvi": [
+            154,
+            250,
+            186188,
+            107307,
+            89682,
+            66146,
+            32263,
+            27957,
+            18866,
+            3342
+        ],
+        "production": 26385000.0
+    },
+    "north-america_united-states_iowa_north-central_franklin": {
+        "harvested": 199500.0,
+        "yld": 206.1,
+        "planted": 201000.0,
+        "gdd": [
+            61848,
+            0,
+            0,
+            0,
+            507244,
+            489377,
+            0,
+            0,
+            0,
+            626335
+        ],
+        "ndvi": [
+            73,
+            165,
+            2353,
+            30364,
+            171263,
+            384589,
+            212040,
+            63843,
+            10897,
+            1856
+        ],
+        "production": 41109000.0
+    },
+    "north-america_united-states_iowa_southeast_van-buren": {
+        "harvested": 42800.0,
+        "yld": 128.2,
+        "planted": 49400.0,
+        "gdd": [
+            83968,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1378892
+        ],
+        "ndvi": [
+            17,
+            21,
+            804,
+            23876,
+            38202,
+            46254,
+            48817,
+            45618,
+            34967,
+            7361
+        ],
+        "production": 5489000.0
+    },
+    "north-america_united-states_iowa_northwest_cherokee": {
+        "harvested": 139100.0,
+        "yld": 203.7,
+        "planted": 146500.0,
+        "gdd": [
+            405554,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1260936
+        ],
+        "ndvi": [
+            34,
+            83,
+            11485,
+            5125,
+            12020,
+            28086,
+            56118,
+            132091,
+            337263,
+            79539
+        ],
+        "production": 28341000.0
+    },
+    "north-america_united-states_iowa_southwest_montgomery": {
+        "harvested": 93400.0,
+        "yld": 199.1,
+        "planted": 94500.0,
+        "gdd": [
+            607746,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            603294
+        ],
+        "ndvi": [
+            43,
+            215,
+            5305,
+            77966,
+            64362,
+            21457,
+            23877,
+            41170,
+            97475,
+            93531
+        ],
+        "production": 18594000.0
+    },
+    "north-america_united-states_iowa_east-central_muscatine": {
+        "harvested": 83700.0,
+        "yld": 206.8,
+        "planted": 87000.0,
+        "gdd": [
+            1361680,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            272048
+        ],
+        "ndvi": [
+            73,
+            120,
+            58108,
+            73341,
+            110661,
+            78611,
+            65295,
+            65695,
+            39706,
+            4591
+        ],
+        "production": 17305000.0
+    },
+    "north-america_united-states_iowa_south-central_warren": {
+        "harvested": 58300.0,
+        "yld": 183.2,
+        "planted": 60300.0,
+        "gdd": [
+            411140,
+            1195356,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            71812
+        ],
+        "ndvi": [
+            14,
+            25,
+            209,
+            4827,
+            19215,
+            54708,
+            90957,
+            95452,
+            39445,
+            6611
+        ],
+        "production": 10678000.0
+    },
+    "north-america_united-states_iowa_northwest_pocahontas": {
+        "harvested": 180800.0,
+        "yld": 190.9,
+        "planted": 183500.0,
+        "gdd": [
+            63518,
+            0,
+            0,
+            0,
+            1028845,
+            193111,
+            0,
+            0,
+            0,
+            388521
+        ],
+        "ndvi": [
+            42,
+            299,
+            33096,
+            143394,
+            36375,
+            39195,
+            60887,
+            83746,
+            232856,
+            187718
+        ],
+        "production": 34513000.0
+    },
+    "north-america_united-states_iowa_southwest_page": {
+        "harvested": 108400.0,
+        "yld": 193.1,
+        "planted": 110000.0,
+        "gdd": [
+            1577450,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            20734
+        ],
+        "ndvi": [
+            78,
+            233,
+            568,
+            41991,
+            135291,
+            60064,
+            50177,
+            57258,
+            93946,
+            82767
+        ],
+        "production": 20931000.0
+    },
+    "north-america_united-states_iowa_northeast_howard": {
+        "harvested": 121000.0,
+        "yld": 201.7,
+        "planted": 124000.0,
+        "gdd": [
+            1360584,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            9164
+        ],
+        "ndvi": [
+            295,
+            1806,
+            23387,
+            76658,
+            235875,
+            166995,
+            38031,
+            16285,
+            11086,
+            1925
+        ],
+        "production": 24406000.0
+    },
+    "north-america_united-states_iowa_east-central_scott": {
+        "harvested": 106500.0,
+        "yld": 220.0,
+        "planted": 108500.0,
+        "gdd": [
+            1688832,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            313806
+        ],
+        "ndvi": [
+            32,
+            134,
+            11081,
+            74309,
+            109162,
+            107935,
+            116878,
+            113904,
+            58165,
+            3537
+        ],
+        "production": 23426000.0
+    },
+    "north-america_united-states_iowa_central_webster": {
+        "harvested": 201000.0,
+        "yld": 197.9,
+        "planted": 203000.0,
+        "gdd": [
+            962802,
+            0,
+            0,
+            889670,
+            0,
+            0,
+            370279,
+            0,
+            0,
+            48699
+        ],
+        "ndvi": [
+            130,
+            1752,
+            257031,
+            530935,
+            155123,
+            27156,
+            16366,
+            8193,
+            1815,
+            234
+        ],
+        "production": 39778000.0
+    },
+    "north-america_united-states_iowa_southeast_wapello": {
+        "harvested": 53300.0,
+        "yld": 153.0,
+        "planted": 55900.0,
+        "gdd": [
+            1025900,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            240810
+        ],
+        "ndvi": [
+            96,
+            84,
+            125,
+            3713,
+            11285,
+            29520,
+            65840,
+            88284,
+            61666,
+            11602
+        ],
+        "production": 8153000.0
+    },
+    "north-america_united-states_iowa_northwest_palo-alto": {
+        "harvested": 169800.0,
+        "yld": 195.4,
+        "planted": 174000.0,
+        "gdd": [
+            2669,
+            0,
+            0,
+            210048,
+            0,
+            0,
+            511474,
+            0,
+            0,
+            917545
+        ],
+        "ndvi": [
+            71,
+            249,
+            33895,
+            86100,
+            20235,
+            32040,
+            79136,
+            113814,
+            311647,
+            133839
+        ],
+        "production": 33187000.0
+    },
+    "north-america_united-states_iowa_west-central_woodbury": {
+        "harvested": 186000.0,
+        "yld": 200.5,
+        "planted": 201000.0,
+        "gdd": [
+            2451738,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            371922
+        ],
+        "ndvi": [
+            217,
+            184,
+            1943,
+            12424,
+            38152,
+            83202,
+            152845,
+            225368,
+            346091,
+            150588
+        ],
+        "production": 37295000.0
+    },
+    "north-america_united-states_iowa_northwest_plymouth": {
+        "harvested": 211000.0,
+        "yld": 193.0,
+        "planted": 234000.0,
+        "gdd": [
+            2387143,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            249686
+        ],
+        "ndvi": [
+            21,
+            45,
+            1030,
+            4811,
+            24434,
+            76749,
+            127801,
+            244103,
+            465095,
+            130910
+        ],
+        "production": 40715000.0
+    },
+    "north-america_united-states_iowa_northeast_chickasaw": {
+        "harvested": 140800.0,
+        "yld": 194.4,
+        "planted": 150500.0,
+        "gdd": [
+            828341,
+            0,
+            0,
+            0,
+            103960,
+            416373,
+            0,
+            0,
+            0,
+            109794
+        ],
+        "ndvi": [
+            22,
+            102,
+            1544,
+            56778,
+            231992,
+            254320,
+            68953,
+            17356,
+            9659,
+            2157
+        ],
+        "production": 27374000.0
+    },
+    "north-america_united-states_iowa_east-central_cedar": {
+        "harvested": 153800.0,
+        "yld": 222.3,
+        "planted": 154500.0,
+        "gdd": [
+            58719,
+            0,
+            0,
+            0,
+            0,
+            538518,
+            0,
+            0,
+            0,
+            1082863
+        ],
+        "ndvi": [
+            6,
+            49,
+            65893,
+            218222,
+            198617,
+            74618,
+            50739,
+            46047,
+            18942,
+            872
+        ],
+        "production": 34183000.0
+    },
+    "north-america_united-states_iowa_west-central_guthrie": {
+        "harvested": 103100.0,
+        "yld": 197.6,
+        "planted": 106500.0,
+        "gdd": [
+            226354,
+            0,
+            0,
+            1326292,
+            0,
+            0,
+            230699,
+            0,
+            0,
+            71175
+        ],
+        "ndvi": [
+            57,
+            94,
+            17988,
+            237509,
+            214800,
+            60288,
+            35318,
+            29025,
+            15406,
+            2745
+        ],
+        "production": 20370000.0
+    },
+    "north-america_united-states_iowa_southeast_lee": {
+        "harvested": 74700.0,
+        "yld": 178.0,
+        "planted": 76500.0,
+        "gdd": [
+            1487789,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1287542
+        ],
+        "ndvi": [
+            163,
+            210,
+            1584,
+            18419,
+            38073,
+            59991,
+            82165,
+            133176,
+            219335,
+            144997
+        ],
+        "production": 13295000.0
+    },
+    "north-america_united-states_iowa_central_grundy": {
+        "harvested": 160000.0,
+        "yld": 217.3,
+        "planted": 160500.0,
+        "gdd": [
+            116905,
+            0,
+            0,
+            474400,
+            0,
+            0,
+            890351,
+            0,
+            0,
+            261134
+        ],
+        "ndvi": [
+            38,
+            72,
+            2134,
+            63229,
+            117233,
+            233206,
+            288717,
+            115046,
+            13484,
+            1570
+        ],
+        "production": 34774000.0
+    },
+    "north-america_united-states_iowa_central_boone": {
+        "harvested": 157400.0,
+        "yld": 192.4,
+        "planted": 158500.0,
+        "gdd": [
+            46800,
+            0,
+            0,
+            0,
+            1177712,
+            204868,
+            0,
+            0,
+            0,
+            222858
+        ],
+        "ndvi": [
+            56,
+            193,
+            15116,
+            112049,
+            142216,
+            80104,
+            138494,
+            174082,
+            51789,
+            1848
+        ],
+        "production": 30284000.0
+    },
+    "north-america_united-states_iowa_southeast_henry": {
+        "harvested": 81300.0,
+        "yld": 196.4,
+        "planted": 82500.0,
+        "gdd": [
+            73906,
+            0,
+            0,
+            0,
+            542159,
+            568973,
+            0,
+            0,
+            0,
+            72102
+        ],
+        "ndvi": [
+            28,
+            70,
+            1873,
+            27135,
+            62328,
+            78512,
+            50511,
+            53909,
+            59981,
+            25576
+        ],
+        "production": 15968000.0
+    },
+    "north-america_united-states_iowa_central_story": {
+        "harvested": 166100.0,
+        "yld": 200.3,
+        "planted": 167500.0,
+        "gdd": [
+            98910,
+            0,
+            0,
+            738304,
+            0,
+            0,
+            683139,
+            0,
+            0,
+            132067
+        ],
+        "ndvi": [
+            126,
+            220,
+            1251,
+            15973,
+            38531,
+            109663,
+            220514,
+            254993,
+            98820,
+            4071
+        ],
+        "production": 33264000.0
+    },
+    "north-america_united-states_iowa_southwest_pottawattamie": {
+        "harvested": 237000.0,
+        "yld": 195.8,
+        "planted": 239500.0,
+        "gdd": [
+            2528135,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            449830
+        ],
+        "ndvi": [
+            212,
+            257,
+            654,
+            5271,
+            11720,
+            32608,
+            86380,
+            136499,
+            410546,
+            360255
+        ],
+        "production": 46399000.0
+    },
+    "north-america_united-states_iowa_northwest_dickinson": {
+        "harvested": 89800.0,
+        "yld": 196.2,
+        "planted": 91000.0,
+        "gdd": [
+            1143601,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            7
+        ],
+        "ndvi": [
+            40,
+            88,
+            4641,
+            2074,
+            3630,
+            9138,
+            27857,
+            88228,
+            247518,
+            29044
+        ],
+        "production": 17620000.0
+    },
+    "north-america_united-states_iowa_north-central_cerro-gordo": {
+        "harvested": 162500.0,
+        "yld": 208.9,
+        "planted": 163500.0,
+        "gdd": [
+            7790,
+            139401,
+            411662,
+            457193,
+            142551,
+            210092,
+            69885,
+            208702,
+            11159,
+            4345
+        ],
+        "ndvi": [
+            86,
+            237,
+            9838,
+            92471,
+            319258,
+            229771,
+            39203,
+            14074,
+            9443,
+            2714
+        ],
+        "production": 33947000.0
+    },
+    "north-america_united-states_iowa_southwest_fremont": {
+        "harvested": 112800.0,
+        "yld": 204.5,
+        "planted": 113000.0,
+        "gdd": [
+            1437025,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            273605
+        ],
+        "ndvi": [
+            122,
+            218,
+            514,
+            3102,
+            8652,
+            20240,
+            46923,
+            80741,
+            152863,
+            242291
+        ],
+        "production": 23062000.0
+    },
+    "north-america_united-states_iowa_southwest_adair": {
+        "harvested": 104100.0,
+        "yld": 175.2,
+        "planted": 108500.0,
+        "gdd": [
+            402273,
+            0,
+            0,
+            0,
+            177312,
+            991780,
+            0,
+            0,
+            0,
+            71759
+        ],
+        "ndvi": [
+            37,
+            244,
+            18431,
+            212394,
+            167775,
+            65225,
+            48238,
+            32818,
+            13195,
+            1788
+        ],
+        "production": 18235000.0
+    },
+    "north-america_united-states_iowa_west-central_monona": {
+        "harvested": 166600.0,
+        "yld": 196.0,
+        "planted": 171000.0,
+        "gdd": [
+            1910818,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            490546
+        ],
+        "ndvi": [
+            83,
+            93,
+            5298,
+            27349,
+            48860,
+            82521,
+            141274,
+            173641,
+            263268,
+            177268
+        ],
+        "production": 32656000.0
+    },
+    "north-america_united-states_iowa_north-central_winnebago": {
+        "harvested": 122600.0,
+        "yld": 210.7,
+        "planted": 123000.0,
+        "gdd": [
+            67031,
+            0,
+            0,
+            557973,
+            0,
+            0,
+            521612,
+            0,
+            0,
+            3068
+        ],
+        "ndvi": [
+            59,
+            5597,
+            262809,
+            153916,
+            51719,
+            33008,
+            12016,
+            7640,
+            3820,
+            1150
+        ],
+        "production": 25830000.0
+    },
+    "north-america_united-states_iowa_southwest_adams": {
+        "harvested": 67300.0,
+        "yld": 179.9,
+        "planted": 71500.0,
+        "gdd": [
+            996779,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            217987
+        ],
+        "ndvi": [
+            28,
+            143,
+            1648,
+            67650,
+            132286,
+            57911,
+            39375,
+            38174,
+            20209,
+            2328
+        ],
+        "production": 12105000.0
+    },
+    "north-america_united-states_iowa_north-central_worth": {
+        "harvested": 104400.0,
+        "yld": 198.5,
+        "planted": 106000.0,
+        "gdd": [
+            205085,
+            0,
+            417432,
+            0,
+            138143,
+            135311,
+            0,
+            193571,
+            0,
+            64639
+        ],
+        "ndvi": [
+            34,
+            258,
+            14863,
+            79142,
+            234090,
+            113751,
+            18780,
+            7754,
+            3981,
+            1002
+        ],
+        "production": 20723000.0
+    },
+    "north-america_united-states_iowa_central_marshall": {
+        "harvested": 146000.0,
+        "yld": 222.4,
+        "planted": 148500.0,
+        "gdd": [
+            70936,
+            0,
+            0,
+            0,
+            987173,
+            138378,
+            0,
+            0,
+            0,
+            457308
+        ],
+        "ndvi": [
+            110,
+            75,
+            1124,
+            26736,
+            26441,
+            125545,
+            281215,
+            155417,
+            30827,
+            3044
+        ],
+        "production": 32468000.0
+    },
+    "north-america_united-states_iowa_north-central_hancock": {
+        "harvested-silage": 1110.0,
+        "harvested": 184500.0,
+        "yld": 200.2,
+        "planted": 188000.0,
+        "gdd": [
+            312,
+            0,
+            224081,
+            0,
+            360355,
+            446190,
+            0,
+            620529,
+            0,
+            2229
+        ],
+        "ndvi": [
+            98,
+            12941,
+            352072,
+            165391,
+            147220,
+            133130,
+            26809,
+            9534,
+            5044,
+            1617
+        ],
+        "production": 36944000.0
+    },
+    "north-america_united-states_iowa_central_hamilton": {
+        "harvested": 192200.0,
+        "yld": 194.6,
+        "planted": 192500.0,
+        "gdd": [
+            1463424,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            336129
+        ],
+        "ndvi": [
+            81,
+            357,
+            44612,
+            73694,
+            105028,
+            250286,
+            319303,
+            121647,
+            15516,
+            1675
+        ],
+        "production": 37411000.0
+    },
+    "north-america_united-states_iowa_central_poweshiek": {
+        "harvested": 148100.0,
+        "yld": 215.1,
+        "planted": 149500.0,
+        "gdd": [
+            84671,
+            0,
+            0,
+            0,
+            378294,
+            977520,
+            0,
+            0,
+            0,
+            265030
+        ],
+        "ndvi": [
+            43,
+            43,
+            2223,
+            22165,
+            49913,
+            152009,
+            245938,
+            161089,
+            26241,
+            2983
+        ],
+        "production": 31855000.0
+    },
+    "north-america_united-states_iowa_south-central_marion": {
+        "harvested": 72000.0,
+        "yld": 185.7,
+        "planted": 75100.0,
+        "gdd": [
+            1258110,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            389256
+        ],
+        "ndvi": [
+            88,
+            58,
+            9704,
+            113565,
+            44627,
+            56271,
+            71238,
+            44088,
+            16200,
+            4602
+        ],
+        "production": 13368000.0
+    },
+    "north-america_united-states_iowa_northeast_fayette": {
+        "harvested": 184200.0,
+        "yld": 207.6,
+        "planted": 191000.0,
+        "gdd": [
+            139800,
+            0,
+            0,
+            1621229,
+            0,
+            0,
+            232978,
+            0,
+            0,
+            108468
+        ],
+        "ndvi": [
+            36,
+            57,
+            2488,
+            58301,
+            182679,
+            340558,
+            145254,
+            53974,
+            19411,
+            4075
+        ],
+        "production": 38233000.0
+    },
+    "north-america_united-states_iowa_south-central_ringgold": {
+        "harvested-silage": 2140.0,
+        "harvested": 50300.0,
+        "yld": 167.8,
+        "planted": 52700.0,
+        "gdd": [
+            1510864,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            48932
+        ],
+        "ndvi": [
+            10,
+            35,
+            50,
+            1097,
+            10775,
+            33590,
+            59158,
+            91921,
+            85930,
+            12518
+        ],
+        "production": 8440000.0
+    },
+    "north-america_united-states_iowa_central_hardin": {
+        "harvested": 187800.0,
+        "yld": 213.7,
+        "planted": 189500.0,
+        "gdd": [
+            738436,
+            0,
+            0,
+            528190,
+            0,
+            0,
+            426051,
+            0,
+            0,
+            69143
+        ],
+        "ndvi": [
+            50,
+            271,
+            926,
+            12397,
+            81826,
+            244419,
+            379959,
+            161300,
+            22553,
+            3011
+        ],
+        "production": 40137000.0
+    },
+    "north-america_united-states_iowa_south-central_union": {
+        "harvested": 49800.0,
+        "yld": 147.9,
+        "planted": 52100.0,
+        "gdd": [
+            939579,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            283599
+        ],
+        "ndvi": [
+            50,
+            112,
+            18999,
+            50342,
+            42899,
+            41805,
+            55086,
+            52427,
+            29815,
+            3391
+        ],
+        "production": 7363000.0
+    },
+    "north-america_united-states_iowa_east-central_clinton": {
+        "harvested": 193800.0,
+        "yld": 213.3,
+        "planted": 197000.0,
+        "gdd": [
+            2263468,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            195628
+        ],
+        "ndvi": [
+            36,
+            92,
+            62780,
+            245102,
+            218132,
+            174953,
+            148475,
+            107404,
+            40128,
+            3796
+        ],
+        "production": 41342000.0
+    },
+    "north-america_united-states_iowa_northeast_delaware": {
+        "harvested": 184000.0,
+        "yld": 218.0,
+        "planted": 194000.0,
+        "gdd": [
+            387932,
+            0,
+            0,
+            0,
+            662885,
+            326495,
+            0,
+            0,
+            0,
+            324136
+        ],
+        "ndvi": [
+            37,
+            125,
+            25366,
+            343197,
+            364164,
+            95240,
+            27916,
+            14756,
+            6417,
+            949
+        ],
+        "production": 40111000.0
+    }
+}
