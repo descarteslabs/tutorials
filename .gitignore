@@ -1,0 +1,10 @@
+# python
+venv/
+*.pyc
+
+# dotenv/direnv
+.env
+.envrc
+
+
+
