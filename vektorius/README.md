@@ -22,7 +22,7 @@ If you're using [Workbench](https://workbench.descarteslabs.com/) you can clone 
 
 ```
 git clone https://github.com/descarteslabs/tutorials.git
-pip install -r tutorials/requirements.txt
+pip install -r tutorials/vektorius/requirements.txt
 ```
 
 ## Updating the Alpha client
