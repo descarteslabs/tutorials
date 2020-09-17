@@ -1,3 +1,1 @@
-descarteslabs @ https://storage.googleapis.com/dl-pypi-prod/descarteslabs-alpha-2020.09.08.tar.gz?GoogleAccessId=docs-service@dl-services-prod.iam.gserviceaccount.com&Expires=1608227483&Signature=kF%2BmW3yUCiFc5SXVHahE403eS30lGVk91ZstB1kkqty%2BupQKr8ECmNeoRqKye6kNX9yNytrVi2TRVmOnvgfPv%2B5O3zX1LUjFfRPEEIH1A9JVpiobLtxIq/5qAhrnrIhaUokbArJmU3IuctxJPZTdSPRm6e47XMDCCgGpiuiZX%2BDMMpcdont6r1rt4h8mrffohSc4ggWJYwkPIxRCD3XtEklZsgG87ow5f2YnjmWnbsYKb4u299foxwf1oEpe4IyzkX0XKYVEH/grGs0H9arhtuDhE23e02tOjVKVamQLTUZq1vhFl/2SC7NhNOEkEbk9YxfuDnricKU4focrsN7mRQ%3D%3D
-graphviz==0.14.1
 jupyter==1.0.0
