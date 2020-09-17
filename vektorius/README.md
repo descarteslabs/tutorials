@@ -28,6 +28,8 @@ git clone https://github.com/descarteslabs/tutorials.git
 pip install -I -r tutorials/vektorius/requirements.txt
 ```
 
+And install the latest Alpha client, instructions are [here](https://docs.descarteslabs.com/installation.html#alpha-installation).
+
 Note that this will overwrite the default `descarteslabs` install, so proceed with caution!
 
 
