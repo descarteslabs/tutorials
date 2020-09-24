@@ -31,5 +31,3 @@ Note that this will overwrite the default `descarteslabs` install with an `edge`
 ## Updating the client
 
 You can update the latest version of the client with `pip install --upgrade -r requiments.txt`.
-
-
